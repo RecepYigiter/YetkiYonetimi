@@ -10,6 +10,8 @@
         <DataGrid>
             <DataGrid.Columns>
                 <DataGridTextColumn Header="Çıkış"/>
+                <DataGridTextColumn Header=" Giriş" />
+                                    
             </DataGrid.Columns>
         </DataGrid>
     </Grid>
