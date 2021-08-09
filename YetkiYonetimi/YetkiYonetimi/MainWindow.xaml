@@ -11,6 +11,7 @@
             <DataGrid.Columns>
                 <DataGridTextColumn Header="Çıkış"/>
                 <DataGridTextColumn Header=" Giriş" />
+                <DataGridTextColumn Header="Yardım" />
                                     
             </DataGrid.Columns>
         </DataGrid>
