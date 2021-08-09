@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\RECEP\\Desktop\\Proje Yönetimi (github)\\YetkiYonetimi\\YetkiYonetimi\\YetkiYonetimi.csproj",
+      "projectUniqueName": "C:\\Users\\RECEP\\Desktop\\YetkiProjesi\\YetkiYonetimi\\YetkiYonetimi\\YetkiYonetimi.csproj",
       "projectName": "YetkiYonetimi",
-      "projectPath": "C:\\Users\\RECEP\\Desktop\\Proje Yönetimi (github)\\YetkiYonetimi\\YetkiYonetimi\\YetkiYonetimi.csproj",
+      "projectPath": "C:\\Users\\RECEP\\Desktop\\YetkiProjesi\\YetkiYonetimi\\YetkiYonetimi\\YetkiYonetimi.csproj",
       "packagesPath": "C:\\Users\\RECEP\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\RECEP\\Desktop\\Proje Yönetimi (github)\\YetkiYonetimi\\YetkiYonetimi\\obj\\",
+      "outputPath": "C:\\Users\\RECEP\\Desktop\\YetkiProjesi\\YetkiYonetimi\\YetkiYonetimi\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\RECEP\\AppData\\Roaming\\NuGet\\NuGet.Config",

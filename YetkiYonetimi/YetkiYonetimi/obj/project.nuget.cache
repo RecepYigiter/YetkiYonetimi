@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "uFm19DoUILhqYr8+T8ue+OwWiV0v7OTxuZfraBlUU7oJ+Uc3a+x0Fs1v9NrhVsjjBICMY9fugDdENFkI17AiVg==",
+  "dgSpecHash": "YUxb/ia4flmu+Y0s7QJB/6TwdlnQl08VWekjakCcmYU4GSzxhqmKHG42zHZxY1PXiqwcU0wkCDJ5cEos1Xssww==",
   "success": true,
-  "projectFilePath": "C:\\Users\\RECEP\\Desktop\\Proje Yönetimi (github)\\YetkiYonetimi\\YetkiYonetimi\\YetkiYonetimi.csproj",
+  "projectFilePath": "C:\\Users\\RECEP\\Desktop\\YetkiProjesi\\YetkiYonetimi\\YetkiYonetimi\\YetkiYonetimi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\RECEP\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.0.3\\microsoft.netcore.app.host.win-x64.3.0.3.nupkg.sha512",
     "C:\\Users\\RECEP\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.0.1\\microsoft.aspnetcore.app.ref.3.0.1.nupkg.sha512",
